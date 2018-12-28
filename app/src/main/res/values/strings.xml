@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KotlinCameraApp</string>
+    <string name="str_captured_image">Captured Image</string>
+    <string name="str_open_camera">Open Camera</string>
+    <string name="hint_enter_url_here">Enter url here..</string>
+    <string name="title_activity_tab_layout">TabLayoutActivity</string>
+    <string name="java_fragment">Java fragment</string>
+    <string name="android_fragment">Android fragment</string>
+    <string name="kotlin_fragment">Kotlin fragment</string>
+    <string name="php_fragment">Php fragment</string>
+    <string name="python_fragment">Python fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
